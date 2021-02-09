@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ### Team. Praiseur
-(People Who make me shine)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/OrangeMakaron)](https://hits.seeyoufarm.com) 
 
